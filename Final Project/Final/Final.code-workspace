@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "E:/Projects/Projects/tour travel"
+	},
+	{
+		"path": "E:/Projects/Projects/food website"
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5502,
+    "liveServer.settings.multiRootWorkspaceName": "Final"
+  }
+}
